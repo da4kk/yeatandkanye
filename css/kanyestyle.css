@@ -1,0 +1,25 @@
+body{
+   height:100%;
+   width:100%;
+   background-image:url(../img/kanye1.jpg); 
+   background-repeat:no-repeat;
+   background-size:cover;
+}
+
+button {
+    padding: 20px 50px;
+    outline: none;
+    border: none;
+    border-radius: 25px;
+    background-color: #B88423;
+    cursor: pointer;
+    color: #fff;
+    font-weight: 1000;
+    font-size: 20px;
+    letter-spacing: 2px;
+    box-shadow: 1px 6px 100px #B88423;
+}
+
+h1 {
+   text-shadow: 0px 4px 5px rgba(143, 72, 17, 1);
+}
